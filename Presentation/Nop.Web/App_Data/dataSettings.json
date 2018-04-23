@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=datamatix;Initial Catalog=nopCommerceDev;Integrated Security=False;Persist Security Info=False;User ID=zapzapuser;Password=zapzapuser",
+  "RawDataSettings": {}
+}

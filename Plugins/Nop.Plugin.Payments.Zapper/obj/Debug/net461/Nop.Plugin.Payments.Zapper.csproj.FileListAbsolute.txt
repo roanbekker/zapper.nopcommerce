@@ -1,0 +1,14 @@
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Views\Configure.cshtml
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Views\PaymentInfo.cshtml
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Views\_ViewImports.cshtml
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\plugin.json
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\logo.jpg
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Scripts\paymentzapper.js
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Nop.Plugin.Payments.Zapper.dll
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Presentation\Nop.Web\Plugins\Payments.Zapper\Nop.Plugin.Payments.Zapper.pdb
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.csprojResolveAssemblyReference.cache
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.csproj.CoreCompileInputs.cache
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.AssemblyInfoInputs.cache
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.AssemblyInfo.cs
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.dll
+C:\Work\GIT\zapper.ecommerce.nopcommerce\Plugins\Nop.Plugin.Payments.Zapper\obj\Debug\net461\Nop.Plugin.Payments.Zapper.pdb
